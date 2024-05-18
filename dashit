@@ -133,7 +133,7 @@ Pause-Script
 
 # Opens their browser with a map of their current location
 
-Start-Process "https://www.latlong.net/c/?lat=$Lat&long=$Lon"
+Start-Process "https://www.gps-coordinates.net/my-location"
 
 Start-Sleep -s 3
 
